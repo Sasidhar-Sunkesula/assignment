@@ -42,5 +42,5 @@ button {
   left: 415px;
   gap: 0px;
   border-radius: 48.49px 0px 0px 0px;
-  opacity: 0px;
+  z-index: 1111;
 }
