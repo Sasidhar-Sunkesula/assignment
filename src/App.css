@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  
 }
-
+.app{
+  background-image: url("/public/image 5.png");
+  min-height: 100vh;
+  min-width: 100vw;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -15,7 +20,8 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 1130px;
+  min-width: 1512px;
   display: flex;
   flex-direction: column;
   align-items: center;
